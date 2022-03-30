@@ -1,0 +1,10 @@
+.quehacer:checked + label {
+    text-decoration:line-through;
+}
+button{
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
